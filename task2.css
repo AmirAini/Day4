@@ -387,6 +387,38 @@ ul, ul li {
     align-items: center;
 }
 
+.top {
+    width: 650px;
+    height: 150px;
+    background-color: skyblue;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.box {
+    width: 100px;
+    height: 120px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+
+.box2 {
+    width: 150px;
+    height: 120px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+
+
+
 
 
 
