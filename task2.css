@@ -118,3 +118,60 @@ ul, ul li {
 
 }
 
+/* Section 2 */
+#logo {
+    width: 650px;
+    height: 450px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    size: 100px;
+}
+
+/* Section 3 */
+
+.headAP {
+    width: 320px;
+    height: 150px;
+    padding: 10px 10px;
+    box-sizing: border-box;
+    background-color: coral;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+
+.bodyAP {
+    width: 650px;
+    height: 450px;
+    background-color: white;
+}
+
+.picborder {
+    width: 145px;
+    height: 150px;
+    border: 1px solid black;
+    margin: 5px 3px;
+    display: inline-block;
+}
+
+/* AP PICS */
+
+.pic1{
+    width: 100px;
+    height: 60px;
+    padding: 10px;
+    border: 1px solid black;
+    box-sizing: border-box;
+    background-image: url(day4_challenge/landing2/images/icon\ cool-icon-l20.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.picText {
+    width: 100px ;
+    height: 90px;
+    border: 1px solid black;
+}
