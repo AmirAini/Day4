@@ -19,43 +19,43 @@ html body {
 .container1 {
     width: 850px;
     height: 400px;
-    background-color: turquoise;
-    border: 2px solid black;
+    /* background-color: turquoise; */
+    /* border: 2px solid black; */
 }
 
 .container2 {
     width: 850px;
     height: 700px;
-    background-color: cornflowerblue;
-    border: 2px solid black;
+    /* background-color: cornflowerblue; */
+    /* border: 2px solid black; */
 }
 
 .container3 {
     width: 850px;
     height: 200px;
-    background-color: pink;
-    border: 2px solid black;
+    /* background-color: pink; */
+    /* border: 2px solid black;s */
 }
 
 .body1 {
     width: 650px;
     height: 400px;
     margin: 0 100px;
-    background-color: blanchedalmond;
+    /* background-color: blanchedalmond; */
 }
 
 .body2 {
     width: 650px;
     height: 700px;
     margin: 0 100px;
-    background-color: blanchedalmond;
+    /* background-color: blanchedalmond; */
 }
 
 .body3 {
     width: 650px;
     height: 200px;
     margin: 0 100px;
-    background-color: blanchedalmond;
+    /* background-color: blanchedalmond; */
 }
 
 
@@ -77,7 +77,7 @@ html body {
     flex-direction: row;
     justify-content: space-around;
     align-items: flex-start;
-    background-color: brown;
+    /* background-color: brown; */
     padding-top: 10px;
     box-sizing: border-box;
 }
@@ -93,7 +93,7 @@ ul, ul li {
 .header2 {
     width: 250px;
     height: 50px;
-    background-color: violet;
+    /* background-color: violet; */
     box-sizing: border-box;
     display: flex;
     flex-direction: row;
@@ -104,7 +104,7 @@ ul, ul li {
 #header-text {
     width: 650px;
     height: 300px;
-    background-color: coral;
+    /* background-color: coral; */
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
@@ -136,7 +136,7 @@ ul, ul li {
     height: 150px;
     padding: 10px 10px;
     box-sizing: border-box;
-    background-color: coral;
+    /* background-color: coral; */
     flex-direction: column;
     justify-content: space-between;
     align-items: flex-start;
@@ -146,7 +146,7 @@ ul, ul li {
 .bodyAP {
     width: 650px;
     height: 450px;
-    background-color: white;
+    /* background-color: white; */
 }
 
 .picborder {
@@ -225,7 +225,7 @@ ul, ul li {
 .picL {
     width: 300px;
     height: 400px;
-    background-color: violet;
+    /* background-color: violet; */
     background-image: url(day4_challenge/landing2/images/thumb-concept-6.png);
     background-size: contain;
     background-repeat: no-repeat;
@@ -235,7 +235,7 @@ ul, ul li {
     width: 300px;
     height: 200px;
     margin-top: 50px;
-    background-color: khaki;
+    /* background-color: khaki; */
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
@@ -309,7 +309,7 @@ ul, ul li {
 .textOurB {
     width: 140px;
     height: 185x;
-    background-color: lawngreen;
+    /* background-color: lawngreen; */
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -370,7 +370,7 @@ ul, ul li {
 #sec8 {
     width: 650px;
     height: 400px;
-    background-color: skyblue;
+    /* background-color: skyblue; */
     display: flex;
     flex-direction: column;
     justify-content: space-around;
@@ -380,17 +380,19 @@ ul, ul li {
 .textR2 {
     width: 400px;
     height: 300px;
-    background-color: khaki;
+    /* background-color: khaki; */
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
     align-items: center;
 }
 
+/* Footer */
+
 .top {
     width: 650px;
     height: 150px;
-    background-color: skyblue;
+    background-color: skyblue; 
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
@@ -417,13 +419,14 @@ ul, ul li {
     align-items: flex-start;
 }
 
-
-
-
-
-
-
-
-
-
-
+.bot {
+    width: 650px;
+    height: 50px;
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: green;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
