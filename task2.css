@@ -51,6 +51,13 @@ html body {
     /* background-color: blanchedalmond; */
 }
 
+.body20 {
+    width: 650px;
+    height: 700px;
+    margin: 0 100px;
+    background-color: #EEF8ED;
+}
+
 .body3 {
     width: 650px;
     height: 200px;
@@ -152,7 +159,7 @@ ul, ul li {
 .picborder {
     width: 145px;
     height: 150px;
-    border: 1px solid black;
+    /* border: 1px solid rgb(153, 133, 133); */
     margin: 20px 3px;
     display: inline-block;
     box-shadow: 2px 2px gray;
@@ -164,7 +171,7 @@ ul, ul li {
     width: 100px;
     height: 60px;
     padding: 10px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     box-sizing: border-box;
     background-image: url(day4_challenge/landing2/images/icon\ cool-icon-l20.svg);
     background-size: contain;
@@ -175,7 +182,7 @@ ul, ul li {
     width: 100px;
     height: 60px;
     padding: 10px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     box-sizing: border-box;
     background-image: url(day4_challenge/landing2/images/icon\ cool-icon-l23.svg);
     background-size: contain;
@@ -186,7 +193,7 @@ ul, ul li {
     width: 100px;
     height: 60px;
     padding: 10px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     box-sizing: border-box;
     background-image: url(day4_challenge/landing2/images/icon\ cool-icon-l26.svg);
     background-size: contain;
@@ -197,7 +204,7 @@ ul, ul li {
     width: 100px;
     height: 60px;
     padding: 10px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     box-sizing: border-box;
     background-image: url(day4_challenge/landing2/images/icon\ cool-icon-l29.svg);
     background-size: contain;
@@ -207,7 +214,7 @@ ul, ul li {
 .picText {
     width: 100px ;
     height: 90px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
 }
 
 
@@ -247,7 +254,7 @@ ul, ul li {
 .bodyExpert1 {
     width: 650px;
     height: 695px;
-    background-color: white;
+    /* background-color: ; */
 }
 
 .pic5{
@@ -301,7 +308,8 @@ ul, ul li {
 .textOurT {
     width: 145px;
     height: 180px;
-    border: 1px solid black;
+    border: 1px solid gray;
+    box-shadow: 2px 2px ;
     margin: 0px 3px;
     display: inline-block;
 }
@@ -323,7 +331,7 @@ ul, ul li {
 .pictureQuality {
     width: 180px;
     height: 500px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     margin: 20px 15px 0px 15px;
     display: inline-block;
     box-shadow: 2px 2px gray;
@@ -336,7 +344,7 @@ ul, ul li {
 .picSec {
     width: 650px;
     height: 200px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
@@ -347,7 +355,7 @@ ul, ul li {
 .secL {
     width: 300px;
     height: 180px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
@@ -358,7 +366,7 @@ ul, ul li {
 .secR {
     width: 300px;
     height: 180px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
@@ -392,7 +400,7 @@ ul, ul li {
 .top {
     width: 650px;
     height: 150px;
-    background-color: skyblue; 
+    /* background-color: skyblue;  */
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
@@ -402,7 +410,7 @@ ul, ul li {
 .box {
     width: 100px;
     height: 120px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
@@ -412,7 +420,7 @@ ul, ul li {
 .box2 {
     width: 150px;
     height: 120px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
@@ -424,7 +432,7 @@ ul, ul li {
     height: 50px;
     padding: 10px;
     box-sizing: border-box;
-    background-color: green;
+    /* background-color: green; */
     display: flex;
     flex-direction: row;
     justify-content: space-between;
